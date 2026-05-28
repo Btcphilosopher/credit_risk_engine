@@ -1,0 +1,6 @@
+{
+  "name": "Credit Risk Analytics Engine",
+  "description": "A production-grade loan risk evaluation, scoring, and portfolio credit loss stress-testing workspace. Visualizes PD, LGD, EAD, and ECL models with a complete built-in reproducible R project explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
